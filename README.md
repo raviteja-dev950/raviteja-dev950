@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Leela Venkata Ravi Teja 👋</h1>
+<h1 align="center">Hi there, I'm Leela Venkata Ravi Teja Vemula 👋</h1>
 <h3 align="center">Python | Java | SQL Developer | Aspiring Backend Engineer</h3>
 <h4 align="center">Challapalli, Andhra Pradesh, India | Open to Opportunities</h4>
 
@@ -59,14 +59,14 @@
 > 🔥 **Goal**: Every project deployed live + documented like production code
 
 ---
-### 📊 GitHub Analytics
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="Ravi Teja's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-dev950&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
 </p>
+
+> 📈 *GitHub stats and top languages will appear automatically after I push my first code repositories*
+
 ---
 
 <p align="center">
