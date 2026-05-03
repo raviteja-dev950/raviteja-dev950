@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Leela Venkata Ravi Teja Vemula 👋</h1>
+<h1 align="center">Hello Everyone, I'm Leela Venkata Ravi Teja Vemula 👋</h1>
 <h3 align="center">Python | Java | SQL Developer | Aspiring Backend Engineer</h3>
 <h4 align="center">Challapalli, Andhra Pradesh, India | Open to Opportunities</h4>
 
