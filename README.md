@@ -59,16 +59,14 @@
 > 🔥 **Goal**: Every project deployed live + documented like production code
 
 ---
-
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ravi Teja's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="Ravi Teja's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-dev950&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
 </p>
-
 ---
 
 <p align="center">
