@@ -42,7 +42,8 @@ I'm mastering Java Full Stack by building 100 projects from basic to advanced. E
 
 ```mermaid
 graph LR
-    A[✅ Tier 1: Foundations<br/>12/12 Done] --> B[🔜 Tier 2: Java + SQL<br/>JDBC + MySQL]
+    A[✅ Tier 1: Foundations<br/>12/12 Done]
+    --> B[🔜 Tier 2: Java + SQL<br/>JDBC + MySQL]
     B --> C[ Tier 3: Web Basics<br/>Servlets + JSP]
     C --> D[ Tier 4: Spring Core]
     D --> E[ Tier 5: Spring Boot + REST]
