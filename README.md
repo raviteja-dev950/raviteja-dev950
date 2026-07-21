@@ -52,6 +52,8 @@ graph LR
     H --> I[ Tier 9: DevOps + Cloud]
     I --> J[ Tier 10: System Design]
 
+```
+
 ### 📫 Reach Me
 LinkedIn: [https://www.linkedin.com/in/vemulaleelavenkataraviteja/] | Email: [vemularaviteja06@gmail.com]
 
