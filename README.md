@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hello, I'm Ravi Teja 👋
 
 ### Java Full Stack Developer | Building 100 Projects Challenge
@@ -11,23 +11,17 @@
 
 **Andhra Pradesh, India | Open to Opportunities**
 
-[LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com)
 
 > 🚀 On a mission to build **100 Java Full Stack Projects** - Learning in Public, No Shortcuts!
-
-</div>
 
 ---
 
 ### 🔥 Current Status: TIER 1 COMPLETED ✅
 
-<div align="center">
-
 ### 🏆 12 / 12 Projects Done - July 2026
 
 **Foundations Strong - Moving to Tier 2: JDBC + MySQL**
-
-</div>
 
 | # | Project Name | Key Concepts | Code |
 |:-:|--------------|--------------|------|
@@ -48,8 +42,6 @@
 
 ---
 
-<div align="center">
-
 ### 🗺️ My 100 Projects Roadmap
 
 | Tier | Focus Area | Status |
@@ -65,13 +57,9 @@
 | **Tier 9** | **DevOps & Cloud (Docker, AWS)** | ⏳ Planned |
 | **Tier 10** | **System Design & Projects** | ⏳ Planned |
 
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
-
-<div align="center">
 
 **Backend**<br/>
 `Java 21` `Spring Boot` `Spring MVC` `JPA` `Hibernate` `JDBC`
@@ -82,16 +70,24 @@
 **Database & Tools**<br/>
 `MySQL` `PostgreSQL` `Git` `Maven` `Docker` `Postman` `AWS`
 
-</div>
-
 ---
 
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-dev950&theme=tokyonight&hide_border=true" />
+
+---
 
 ### 📫 Let's Connect - Open to Internships & Roles!
 
 **If you are a recruiter, check my pinned repos below 👇**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vemulaleelavenkataraviteja/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) 
 [![Email](https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail)](mailto:vemularaviteja06@gmail.com)
 
 ⭐ **Star my repositories if you like my journey!**
