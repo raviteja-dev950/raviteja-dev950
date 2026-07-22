@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Ravi Teja 👋
+# Hello, I'm Ravi Teja 👋
 
 ### Java Full Stack Developer | Building 100 Projects Challenge
 
