@@ -86,21 +86,6 @@
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Stats - Stop & Check My Consistency
-
-<img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-dev950&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 📫 Let's Connect - Open to Internships & Roles!
 
 **If you are a recruiter, check my pinned repos below 👇**
