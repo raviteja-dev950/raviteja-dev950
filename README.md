@@ -11,7 +11,7 @@
 
 **Andhra Pradesh, India | Open to Opportunities**
 
-[LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com) 
 
 > 🚀 On a mission to build **100 Java Full Stack Projects** - Learning in Public, No Shortcuts!
 
