@@ -2,7 +2,7 @@
 
 # Hello, I'm Ravi Teja 👋
 
-### Java Full Stack Developer | Building 100 Projects Challenge
+### Java Full Stack Developer | On a Mission to Build 100 Projects
 
 [![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/raviteja-dev950)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/raviteja-dev950)
@@ -13,73 +13,143 @@
 
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com)
 
-> 🚀 On a mission to build **100 Java Full Stack Projects** - Learning in Public, No Shortcuts!
+> 🚀 Building **100 Java Full Stack Projects** - From Zero to Industry Ready for 9 LPA!
 
 ---
 
-### 🔥 Current Status: TIER 1 COMPLETED ✅
+### 🔥 CURRENT STATUS
 
-### 🏆 12 / 12 Projects Done - July 2026
+#### 🏆 TIER 1: FOUNDATIONS - COMPLETED ✅
 
-**Foundations Strong - Moving to Tier 2: JDBC + MySQL**
+### 12 / 12 Projects Done - July 2026
 
-| # | Project Name | Key Concepts | Code |
-|:-:|--------------|--------------|------|
-| **01** | **CLI Calculator** | OOP, Interface, Exception Handling | [**View Code →**](https://github.com/raviteja-dev950/01-cli-calculator) |
-| **02** | **Student Management** | ArrayList, CRUD, Streams | [**View Code →**](https://github.com/raviteja-dev950/02-student-management) |
-| **03** | **To-Do CLI** | File Handling, Streams, LocalDate | [**View Code →**](https://github.com/raviteja-dev950/03-todo-cli) |
-| **04** | **Bank Account Sim** | Custom Exception, Transaction History | [**View Code →**](https://github.com/raviteja-dev950/04-bank-account-sim) |
-| **05** | **File Renamer Tool** | Java NIO, Bulk Operations | [**View Code →**](https://github.com/raviteja-dev950/05-file-renamer-tool) |
-| **06** | **JSON Parser Tool** | Jackson, Validation, Pretty Print | [**View Code →**](https://github.com/raviteja-dev950/06-json-parser-tool) |
-| **07** | **CSV Reader/Writer** | OpenCSV, Filtering, Search | [**View Code →**](https://github.com/raviteja-dev950/07-csv-reader-writer-tool) |
-| **08** | **Notes App** | File CRUD, NIO, DateTime | [**View Code →**](https://github.com/raviteja-dev950/08-notes-app) |
-| **09** | **Unit Converter** | Maps, OOP, Enums | [**View Code →**](https://github.com/raviteja-dev950/09-unit-converter) |
-| **10** | **Quiz App CLI** | Timer, Scoring, Collections | [**View Code →**](https://github.com/raviteja-dev950/10-quiz-app) |
-| **11** | **Student Grade Tracker** | Logic, Average, Grading System | [**View Code →**](https://github.com/raviteja-dev950/11-student-grade-tracker) |
-| **12** | **Contact Book** | CRUD, Iterator, Search & Delete | [**View Code →**](https://github.com/raviteja-dev950/12-contact-book) |
+**Clean Code | Great READMEs | Screenshots | Proper Commits**
 
-> ✨ Every repo includes **Clean Code + README + Screenshots + Proper Commits**
-
----
-
-### 🗺️ My 100 Projects Roadmap
-
-| Tier | Focus Area | Status |
-|:----:|------------|--------|
-| **Tier 1** | **Foundations (Java Core)** | ✅ **12/12 Completed** |
-| **Tier 2** | **Java + SQL (JDBC, MySQL)** | 🔜 **Next Up** |
-| **Tier 3** | **Web Basics (Servlets, JSP)** | ⏳ Planned |
-| **Tier 4** | **Spring Core & MVC** | ⏳ Planned |
-| **Tier 5** | **Spring Boot + REST APIs** | ⏳ Planned |
-| **Tier 6** | **Frontend Mastery (React)** | ⏳ Planned |
-| **Tier 7** | **Full Stack Integration** | ⏳ Planned |
-| **Tier 8** | **Microservices & Security** | ⏳ Planned |
-| **Tier 9** | **DevOps & Cloud (Docker, AWS)** | ⏳ Planned |
-| **Tier 10** | **System Design & Projects** | ⏳ Planned |
+| # | Project | Skills Learned | Code |
+|:-:|---------|----------------|------|
+| 01 | CLI Calculator | OOP, Interface, Exception | [**View →**](https://github.com/raviteja-dev950/01-cli-calculator) |
+| 02 | Student Management | ArrayList, CRUD, Streams | [**View →**](https://github.com/raviteja-dev950/02-student-management) |
+| 03 | To-Do CLI | File Handling, Streams | [**View →**](https://github.com/raviteja-dev950/03-todo-cli) |
+| 04 | Bank Account Sim | Custom Exception, History | [**View →**](https://github.com/raviteja-dev950/04-bank-account-sim) |
+| 05 | File Renamer Tool | Java NIO, Bulk Rename | [**View →**](https://github.com/raviteja-dev950/05-file-renamer-tool) |
+| 06 | JSON Parser Tool | Jackson, Validation | [**View →**](https://github.com/raviteja-dev950/06-json-parser-tool) |
+| 07 | CSV Reader/Writer | OpenCSV, Filter, Search | [**View →**](https://github.com/raviteja-dev950/07-csv-reader-writer-tool) |
+| 08 | Notes App | NIO, LocalDateTime | [**View →**](https://github.com/raviteja-dev950/08-notes-app) |
+| 09 | Unit Converter | Maps, OOP | [**View →**](https://github.com/raviteja-dev950/09-unit-converter) |
+| 10 | Quiz App CLI | Timer, Scoring | [**View →**](https://github.com/raviteja-dev950/10-quiz-app) |
+| 11 | Student Grade Tracker | Logic, Average | [**View →**](https://github.com/raviteja-dev950/11-student-grade-tracker) |
+| 12 | Contact Book | CRUD, Iterator | [**View →**](https://github.com/raviteja-dev950/12-contact-book) |
 
 ---
 
-### 🛠️ Tech Stack
+### 🗺️ MY 100 PROJECTS ROADMAP - From Beginner to Industry Ready
 
-**Backend**<br/>
+#### Your Success Journey - One Step at a Time
+
+**✅ STEP 1: FOUNDATIONS - COMPLETED**
+> **12/12 Projects Done**
+> Core Java, OOP, Collections, Exception, Git, CLI
+> *You built strong base - Like foundation of a building!*
+
+⬇️
+
+**🔜 STEP 2: JAVA + SQL - CURRENT FOCUS**
+> **Project 13 to 20**
+> JDBC, MySQL, CRUD, DAO Pattern, ER Diagrams
+> *Next: Library Management CLI, Employee DB, Inventory Tracker...*
+> *Goal: Add SQL scripts + ER diagrams in every repo*
+
+⬇️
+
+**⏳ STEP 3: WEB BASICS**
+> **Project 21 to 30**
+> Servlets, JSP, Tomcat, Sessions, Cookies, HTML, CSS
+> *Goal: Deploy to Render/Railway + Live Link*
+
+⬇️
+
+**⏳ STEP 4: SPRING CORE**
+> **Project 31 to 40**
+> Spring IoC, DI, MVC, Thymeleaf, Bootstrap
+> *Goal: Use Spring Initializr, show dependency management*
+
+⬇️
+
+**⏳ STEP 5: SPRING BOOT + REST APIs**
+> **Project 41 to 50**
+> Spring Boot, REST, JPA, Hibernate, Validation, Swagger
+> *Goal: Swagger Docs + Proper Status Codes + Postman*
+
+⬇️
+
+**⏳ STEP 6: FRONTEND MASTERY**
+> **Project 51 to 60**
+> React, Hooks, Axios, Tailwind, Redux
+> *Goal: Separate frontend repos + GIFs & Screenshots*
+
+⬇️
+
+**⏳ STEP 7: FULL STACK INTEGRATION**
+> **Project 61 to 70**
+> Complete Apps - Spring Boot + React + Security
+> *Goal: Dockerfiles, docker-compose, Full Stack Apps*
+
+⬇️
+
+**⏳ STEP 8: ADVANCED BACKEND - MICROSERVICES**
+> **Project 71 to 80**
+> Spring Cloud, Eureka, Gateway, Kafka, Redis
+> *Goal: Architecture Diagram in README*
+
+⬇️
+
+**⏳ STEP 9: DEVOPS + CLOUD**
+> **Project 81 to 90**
+> Docker, K8s, CI/CD, AWS EC2, S3, RDS
+> *Goal: Build Passing Badges + Deployed Links*
+
+⬇️
+
+**🏆 STEP 10: SYSTEM DESIGN - INDUSTRY READY**
+> **Project 91 to 100**
+> Caching, Security, Testing, JUnit, Elasticsearch, Scaling
+> *Goal: CONTRIBUTING.md, Issues, Release Tags - Ready for 9 LPA Job!*
+
+---
+
+### 🛠️ Tech Stack Growing With Me
+
+**Backend**
 `Java 21` `Spring Boot` `Spring MVC` `JPA` `Hibernate` `JDBC`
 
-**Frontend**<br/>
+**Frontend**
 `React 18` `JavaScript` `HTML5` `CSS3` `Tailwind` `Bootstrap`
 
-**Database & Tools**<br/>
+**Database & Tools**
 `MySQL` `PostgreSQL` `Git` `Maven` `Docker` `Postman` `AWS`
 
 ---
 
+### 📊 My Consistency - Proof of Hard Work
 
-### 📫 Let's Connect - Open to Internships & Roles!
+<img src="https://github-readme-stats.vercel.app/api?username=raviteja-dev950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-dev950&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
-**If you are a recruiter, check my pinned repos below 👇**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) 
-[![Email](https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail)](mailto:vemularaviteja06@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-dev950&theme=tokyonight&hide_border=true" />
 
-⭐ **Star my repositories if you like my journey!**
+---
+
+### 📫 Let's Connect - I am Ready to Learn & Contribute!
+
+**Recruiters - Check my Pinned Repos Below 👇 Every repo is beautiful!**
+
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vemulaleelavenkataraviteja/)
+[![Hire Me](https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail)](mailto:vemularaviteja06@gmail.com)
+
+⭐ **Star my journey if you believe in consistent learning!**
+
+**From 0 to 100 - From Student to Industry Ready Developer!**
 
 </div>
