@@ -13,175 +13,174 @@
 
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com)
 
-> 🚀 Building **100 Java Full Stack Projects** - From Zero to Industry Ready for 9 LPA!
+> 🚀 Building **100 Java Full Stack Projects** — From Zero to Industry Ready Java Full Stack Developer!
 
 ---
 
-### 🔥 CURRENT STATUS
+# 🔥 CURRENT STATUS
 
-#### 🏆 TIER 1: FOUNDATIONS - COMPLETED ✅
+## 🏆 TIER 1: FOUNDATIONS — COMPLETED ✅
 
-### 12 / 12 Projects Done - July 2026
+### 12 / 12 Projects Done
 
-**Clean Code | Great READMEs | Screenshots | Proper Commits**
+**Core Java | OOP | Collections | Exception Handling | File Handling | Git**
 
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 | 01 | CLI Calculator | OOP, Interface, Exception | [**View →**](https://github.com/raviteja-dev950/01-cli-calculator) |
 | 02 | Student Management | ArrayList, CRUD, Streams | [**View →**](https://github.com/raviteja-dev950/02-student-management) |
 | 03 | To-Do CLI | File Handling, Streams | [**View →**](https://github.com/raviteja-dev950/03-todo-cli) |
-| 04 | Bank Account Sim | Custom Exception, History | [**View →**](https://github.com/raviteja-dev950/04-bank-account-sim) |
-| 05 | File Renamer Tool | Java NIO, Bulk Rename | [**View →**](https://github.com/raviteja-dev950/05-file-renamer-tool) |
-| 06 | JSON Parser Tool | Jackson, Validation | [**View →**](https://github.com/raviteja-dev950/06-json-parser-tool) |
-| 07 | CSV Reader/Writer | OpenCSV, Filter, Search | [**View →**](https://github.com/raviteja-dev950/07-csv-reader-writer-tool) |
+| 04 | Bank Account Simulator | Custom Exception, Transactions | [**View →**](https://github.com/raviteja-dev950/04-bank-account-sim) |
+| 05 | File Renamer Tool | Java NIO, File Handling | [**View →**](https://github.com/raviteja-dev950/05-file-renamer-tool) |
+| 06 | JSON Parser Tool | Jackson Library, Validation | [**View →**](https://github.com/raviteja-dev950/06-json-parser-tool) |
+| 07 | CSV Reader/Writer | OpenCSV, Search, Filter | [**View →**](https://github.com/raviteja-dev950/07-csv-reader-writer-tool) |
 | 08 | Notes App | NIO, LocalDateTime | [**View →**](https://github.com/raviteja-dev950/08-notes-app) |
 | 09 | Unit Converter | Maps, OOP | [**View →**](https://github.com/raviteja-dev950/09-unit-converter) |
-| 10 | Quiz App CLI | Timer, Scoring | [**View →**](https://github.com/raviteja-dev950/10-quiz-app) |
-| 11 | Student Grade Tracker | Logic, Average | [**View →**](https://github.com/raviteja-dev950/11-student-grade-tracker) |
-| 12 | Contact Book | CRUD, Iterator | [**View →**](https://github.com/raviteja-dev950/12-contact-book) |
+| 10 | Quiz App CLI | Timer, Score Logic | [**View →**](https://github.com/raviteja-dev950/10-quiz-app) |
+| 11 | Student Grade Tracker | Average Calculation, Logic | [**View →**](https://github.com/raviteja-dev950/11-student-grade-tracker) |
+| 12 | Contact Book | CRUD, Collections | [**View →**](https://github.com/raviteja-dev950/12-contact-book) |
 
 ---
 
-#### 🏆 TIER 2: JDBC + ORACLE - COMPLETED ✅
+## 🏆 TIER 2: JDBC + ORACLE — COMPLETED ✅
 
-### 10 / 10 Projects Done - July 2026
+### 10 / 10 Projects Done
 
-**Oracle Database | JDBC | DAO Pattern | CRUD | SQL JOIN | Maven**
+**Oracle 11g XE | JDBC | Maven | DAO Pattern | CRUD | SQL JOIN**
 
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
-| 13 | Library Management System | JDBC, CRUD, DAO | [**View →**](https://github.com/raviteja-dev950/13-library-management-cli) |
-| 14 | Employee Management System | Oracle JDBC, DAO | [**View →**](https://github.com/raviteja-dev950/14-employee-management-cli) |
-| 15 | Student Course Registration | Foreign Keys, JOIN | [**View →**](https://github.com/raviteja-dev950/15-student-course-registration-cli) |
-| 16 | Hospital Management System | Multi-table CRUD | [**View →**](https://github.com/raviteja-dev950/16-hospital-management-cli) |
-| 17 | Inventory Management System | Product CRUD | [**View →**](https://github.com/raviteja-dev950/17-inventory-management-cli) |
-| 18 | Restaurant Order System | Orders, Reports | [**View →**](https://github.com/raviteja-dev950/18-restaurant-order-cli) |
-| 19 | Voting System | Candidate & Vote Management | [**View →**](https://github.com/raviteja-dev950/19-voting-system-cli) |
-| 20 | Flight Booking System | Flight Booking, SQL JOIN | [**View →**](https://github.com/raviteja-dev950/21-flight-booking-system) |
-| 21 | Sales Report System | Sales Reports, Aggregate SQL | [**View →**](https://github.com/raviteja-dev950/22-sales-report-system) |
-| 22 | Coming Soon | More JDBC Practice | 🚧 |
+| 13 | Library Management CLI | JDBC, CRUD, DAO Pattern | [**View →**](https://github.com/raviteja-dev950/13-library-management-cli) |
+| 14 | Employee DB CRUD | Employee CRUD, Oracle JDBC | [**View →**](https://github.com/raviteja-dev950/14-employee-db-crud) |
+| 15 | Inventory Tracker | Product CRUD, SQL | [**View →**](https://github.com/raviteja-dev950/15-inventory-tracker) |
+| 16 | School DB System | Student & Course Management | [**View →**](https://github.com/raviteja-dev950/16-school-db-system) |
+| 17 | Expense Tracker CLI | Expense Management, Reports | [**View →**](https://github.com/raviteja-dev950/17-expense-tracker-cli) |
+| 18 | Hospital Records | Patient & Doctor Management | [**View →**](https://github.com/raviteja-dev950/18-hospital-records) |
+| 19 | Restaurant Order DB | Order Management, SQL JOIN | [**View →**](https://github.com/raviteja-dev950/19-restaurant-order-db) |
+| 20 | Voting System | Candidate, Voting & Results | [**View →**](https://github.com/raviteja-dev950/20-voting-system) |
+| 21 | Flight Booking CLI | Booking Management, SQL JOIN | [**View →**](https://github.com/raviteja-dev950/21-flight-booking-system) |
+| 22 | Sales Report Tool | Sales Report, SQL JOIN | [**View →**](https://github.com/raviteja-dev950/22-sales-report-system) |
 
 ---
 
-### 🗺️ MY 100 PROJECTS ROADMAP - From Beginner to Industry Ready
+---
 
-#### Your Success Journey - One Step at a Time
+### 🗺️ MY 100 PROJECTS ROADMAP
 
-**✅ STEP 1: FOUNDATIONS - COMPLETED**
-> **12/12 Projects Done**
->
-> Core Java, OOP, Collections, Exception, Git, CLI
->
-> *You built a strong base — like the foundation of a building!*
+#### 🚀 My Journey to Becoming a Java Full Stack Developer
 
-⬇️
-
-**✅ STEP 2: JAVA + SQL - COMPLETED**
-> **10/10 Projects Done**
->
-> JDBC, Oracle 11g XE, CRUD, DAO Pattern, SQL JOIN, Maven
->
-> *Successfully built 10 real-world database-driven console applications.*
+**✅ STEP 1: FOUNDATIONS — COMPLETED**
+> **12/12 Projects Completed**
+> Core Java, OOP, Collections, Exception Handling, Git & CLI Development.
+> *Established a strong foundation in Java programming.*
 
 ⬇️
 
-**🔜 STEP 3: WEB BASICS - CURRENT FOCUS**
-> **Project 23 to 30**
->
+**✅ STEP 2: JAVA + SQL — COMPLETED**
+> **10/10 Projects Completed (Projects 13–22)**
+> JDBC, Oracle Database 11g XE, Maven, DAO Pattern, CRUD Operations, SQL JOINs, Layered Architecture.
+> *Built 10 database-driven console applications using real-world business scenarios.*
+
+⬇️
+
+**🔜 STEP 3: WEB BASICS — NEXT**
+> **Projects 23–30**
 > Servlets, JSP, Tomcat, Sessions, Cookies, HTML, CSS
->
-> *Goal: Deploy to Render/Railway + Live Link*
+> *Goal: Build dynamic web applications and deploy them online.*
 
 ⬇️
 
 **⏳ STEP 4: SPRING CORE**
-> **Project 31 to 40**
->
-> Spring IoC, DI, MVC, Thymeleaf, Bootstrap
->
-> *Goal: Use Spring Initializr, show dependency management*
+> **Projects 31–40**
+> Spring IoC, Dependency Injection, Spring MVC, Thymeleaf, Bootstrap
+> *Goal: Build enterprise-grade Java applications.*
 
 ⬇️
 
 **⏳ STEP 5: SPRING BOOT + REST APIs**
-> **Project 41 to 50**
->
-> Spring Boot, REST, JPA, Hibernate, Validation, Swagger
->
-> *Goal: Swagger Docs + Proper Status Codes + Postman*
+> **Projects 41–50**
+> Spring Boot, REST APIs, JPA, Hibernate, Validation, Swagger
+> *Goal: Develop production-ready backend services.*
 
 ⬇️
 
 **⏳ STEP 6: FRONTEND MASTERY**
-> **Project 51 to 60**
->
-> React, Hooks, Axios, Tailwind, Redux
->
-> *Goal: Separate frontend repos + GIFs & Screenshots*
+> **Projects 51–60**
+> React, Hooks, Axios, Tailwind CSS, Redux
+> *Goal: Build responsive modern user interfaces.*
 
 ⬇️
 
 **⏳ STEP 7: FULL STACK INTEGRATION**
-> **Project 61 to 70**
->
-> Complete Apps - Spring Boot + React + Security
->
-> *Goal: Dockerfiles, docker-compose, Full Stack Apps*
+> **Projects 61–70**
+> Spring Boot + React, Authentication, Authorization, Docker
+> *Goal: Complete full-stack applications.*
 
 ⬇️
 
-**⏳ STEP 8: ADVANCED BACKEND - MICROSERVICES**
-> **Project 71 to 80**
->
-> Spring Cloud, Eureka, Gateway, Kafka, Redis
->
-> *Goal: Architecture Diagram in README*
+**⏳ STEP 8: ADVANCED BACKEND**
+> **Projects 71–80**
+> Spring Cloud, Microservices, Eureka, API Gateway, Kafka, Redis
+> *Goal: Learn scalable backend architecture.*
 
 ⬇️
 
 **⏳ STEP 9: DEVOPS + CLOUD**
-> **Project 81 to 90**
->
+> **Projects 81–90**
 > Docker, Kubernetes, CI/CD, AWS EC2, S3, RDS
->
-> *Goal: Build Passing Badges + Deployed Links*
+> *Goal: Deploy applications using modern DevOps practices.*
 
 ⬇️
 
-**🏆 STEP 10: SYSTEM DESIGN - INDUSTRY READY**
-> **Project 91 to 100**
->
-> Caching, Security, Testing, JUnit, Elasticsearch, Scaling
->
-> *Goal: CONTRIBUTING.md, Issues, Release Tags - Ready for 9 LPA Job!*
-
----
+**🏆 STEP 10: SYSTEM DESIGN — INDUSTRY READY**
+> **Projects 91–100**
+> System Design, Security, Testing, JUnit, Elasticsearch, Performance Optimization
+> *Goal: Become a job-ready Java Full Stack Developer.*
+> ---
 
 ### 🛠️ Tech Stack Growing With Me
 
-**Backend**
+#### 💻 Programming Languages
+`Java 21` `SQL`
 
-`Java 21` `Spring Boot` `Spring MVC` `JPA` `Hibernate` `JDBC`
+#### ⚙️ Backend Technologies
+`Core Java` `JDBC` `DAO Pattern` `Layered Architecture`
 
-**Frontend**
+#### 🗄️ Database
+`Oracle Database 11g XE`
 
-`React 18` `JavaScript` `HTML5` `CSS3` `Tailwind` `Bootstrap`
+#### 🧰 Build & Development Tools
+`Maven` `Git` `GitHub` `Eclipse IDE`
 
-**Database & Tools**
+#### 📚 Currently Learning
+`Servlets` `JSP` `Apache Tomcat`
 
-`Oracle 11g XE` `MySQL` `PostgreSQL` `Git` `Maven` `Docker` `Postman` `AWS`
+#### 🎯 Upcoming Technologies
+`Spring Core` `Spring Boot` `Hibernate` `React` `Docker` `AWS`
 
 ---
 
-### 📫 Let's Connect - I am Ready to Learn & Contribute!
+### 📫 Let's Connect
 
-**Recruiters - Check my Pinned Repos Below 👇 Every repo is beautiful!**
+**I'm actively building my Java Full Stack portfolio and always open to learning, collaboration, and new opportunities.**
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vemulaleelavenkataraviteja/)
-[![Hire Me](https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail)](mailto:vemularaviteja06@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:vemularaviteja06@gmail.com)
 
-⭐ **Star my journey if you believe in consistent learning!**
+---
 
-**From 0 to 100 - From Student to Industry Ready Developer!**
+### 📊 Current Progress
 
-</div>
+✅ **Projects Completed:** **22 / 100**
+
+🏆 **Tier 1 – Foundations:** **Completed (12/12)**
+
+🏆 **Tier 2 – Java + SQL (JDBC + Oracle):** **Completed (10/10)**
+
+🚀 **Currently Working On:** **Tier 3 – Java Web (Servlets, JSP & Tomcat)**
+
+---
+
+⭐ **If you enjoy my projects, consider starring the repositories and following my journey!**
+
+### 🚀 From Core Java to Full Stack Development — One Project at a Time.
