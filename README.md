@@ -158,22 +158,22 @@
 ---
 
 # 🛠️ Tech Stack Growing With Me
-
+---
 ### 💻 Programming Languages
 `Java 21` `SQL`
-
+---
 ### ⚙️ Backend
 `Core Java` `JDBC` `DAO Pattern` `Layered Architecture`
-
+---
 ### 🗄️ Database
 `Oracle Database 11g XE`
-
+---
 ### 🧰 Tools
 `Git` `GitHub` `Maven` `Eclipse IDE`
-
+---
 ### 📚 Currently Learning
 `Servlets` `JSP` `Apache Tomcat`
-
+---
 ### 🎯 Next Technologies
 `Spring Core` `Spring Boot` `Hibernate` `React` `Docker` `AWS`
 
