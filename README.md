@@ -271,22 +271,22 @@
 
 ## 🏆 2026 Goals
 
-- ✅ Complete Tier 1 – Foundations
-- ✅ Complete Tier 2 – JDBC + Oracle
-- ✅ Complete Tier 3 – Java Web Development
-- 🚀 Complete Tier 4 – Spring Core
-- 🚀 Build 100 Java Full Stack Projects
-- 🌱 Become an Industry-Ready Java Full Stack Developer
+  ✅ Complete Tier 1 – Foundations
+  ✅ Complete Tier 2 – JDBC + Oracle
+  ✅ Complete Tier 3 – Java Web Development
+  🚀 Complete Tier 4 – Spring Core
+  🚀 Build 100 Java Full Stack Projects
+  🌱 Become an Industry-Ready Java Full Stack Developer
 
 ---
 
 ## 📈 GitHub Goals
 
-- 📦 Build production-quality Java projects
-- 📚 Write professional README files for every repository
-- 💡 Learn one new Java technology every week
-- ⭐ Maintain clean commit history and project documentation
-- 🚀 Continuously improve coding, architecture, and problem-solving skills
+  📦 Build production-quality Java projects
+  📚 Write professional README files for every repository
+  💡 Learn one new Java technology every week
+  ⭐ Maintain clean commit history and project documentation
+  🚀 Continuously improve coding, architecture, and problem-solving skills
 
 ---
 
