@@ -2,12 +2,11 @@
 
 # Hello, I'm Ravi Teja 👋
 
-### Java Full Stack Developer | On a Mission to Build 100 Projects
+### Java Full Stack Developer | Building 100 Java Full Stack Projects
 
 [![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/raviteja-dev950)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/raviteja-dev950)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/raviteja-dev950)
-[![Streak](https://img.shields.io/badge/STREAK-22_DAYS-fire?style=for-the-badge)](https://github.com/raviteja-dev950)
 
 **Andhra Pradesh, India | Open to Opportunities**
 
@@ -63,6 +62,27 @@
 
 ---
 
+## 🏆 TIER 3: JAVA WEB DEVELOPMENT — COMPLETED ✅
+
+### 10 / 10 Projects Completed
+
+**Java 21 | Jakarta Servlet 6.0 | JSP | Apache Tomcat 10.1 | Sessions | Cookies | Java File I/O**
+
+| # | Project | Skills Learned | Code |
+|:-:|---------|----------------|------|
+| 23 | Login Page | Servlets, JSP, Authentication | [**View →**](https://github.com/raviteja-dev950/23-login-page) |
+| 24 | Feedback Form | Form Handling, Request Parameters | [**View →**](https://github.com/raviteja-dev950/24-feedback-form) |
+| 25 | Session Counter | HttpSession, Session Tracking | [**View →**](https://github.com/raviteja-dev950/25-session-counter) |
+| 26 | Online Poll | Cookies, Voting Logic | [**View →**](https://github.com/raviteja-dev950/26-online-poll) |
+| 27 | JSP Calculator | JSP, Servlet Forwarding | [**View →**](https://github.com/raviteja-dev950/27-jsp-calculator) |
+| 28 | File Upload App | Multipart Upload, File Handling | [**View →**](https://github.com/raviteja-dev950/28-file-upload-app) |
+| 29 | Visitor Tracker | Sessions, Cookies, Listeners | [**View →**](https://github.com/raviteja-dev950/29-visitor-tracker) |
+| 30 | Quiz Web App | MVC, Session Management | [**View →**](https://github.com/raviteja-dev950/30-quiz-web-app) |
+| 31 | Notes App | Java File I/O, CRUD Operations | [**View →**](https://github.com/raviteja-dev950/31-notes-app) |
+| 32 | Simple Blog | File-Based Blog System | [**View →**](https://github.com/raviteja-dev950/32-simple-blog) |
+
+---
+
 # 🗺️ MY 100 PROJECTS ROADMAP
 
 #### 🚀 My Journey to Becoming a Java Full Stack Developer
@@ -85,26 +105,26 @@
 
 ⬇️
 
-**🔜 STEP 3: JAVA WEB DEVELOPMENT**
-> **Projects 23–30**
+**✅ STEP 3: JAVA WEB DEVELOPMENT — COMPLETED**
+> **10 / 10 Projects Completed (Projects 23–32)**
 >
-> Servlets, JSP, Apache Tomcat, Sessions, Cookies, HTML & CSS.
+> Servlets, JSP, Apache Tomcat, Sessions, Cookies, Java File I/O.
 >
-> *Goal: Build dynamic Java web applications and deploy them online.*
+> *Built 10 dynamic Java Web applications using JSP, Servlets, Sessions, Cookies, and File Handling.*
 
 ⬇️
 
-**⏳ STEP 4: SPRING CORE**
-> **Projects 31–40**
+**🚀 STEP 4: SPRING CORE — CURRENT**
+> **Projects 33–42**
 >
 > Spring IoC, Dependency Injection, Spring MVC, Thymeleaf, Bootstrap.
 >
-> *Goal: Build enterprise Java applications using the Spring Framework.*
+> *Goal: Build enterprise applications using the Spring Framework.*
 
 ⬇️
 
 **⏳ STEP 5: SPRING BOOT + REST APIs**
-> **Projects 41–50**
+> **Projects 43–52**
 >
 > Spring Boot, REST APIs, Hibernate, JPA, Validation, Swagger.
 >
@@ -112,82 +132,131 @@
 
 ⬇️
 
-**⏳ STEP 6: FRONTEND DEVELOPMENT**
-> **Projects 51–60**
+**⏳ STEP 6: FRONTEND MASTERY**
+> **Projects 53–62**
 >
-> React, Hooks, Axios, Redux, Tailwind CSS.
+> React, Hooks, Axios, Tailwind CSS.
 >
 > *Goal: Build responsive modern user interfaces.*
 
 ⬇️
 
-**⏳ STEP 7: FULL STACK PROJECTS**
-> **Projects 61–70**
+**⏳ STEP 7: FULL STACK INTEGRATION**
+> **Projects 63–72**
 >
-> Spring Boot + React, Authentication, Authorization, Docker.
+> Spring Boot, React, Spring Security, JPA, Docker.
 >
 > *Goal: Develop complete full-stack applications.*
 
 ⬇️
 
-**⏳ STEP 8: MICROSERVICES**
-> **Projects 71–80**
+**⏳ STEP 8: ADVANCED BACKEND**
+> **Projects 73–82**
 >
-> Spring Cloud, Eureka, API Gateway, Kafka, Redis.
+> Spring Cloud, Eureka, API Gateway, Kafka, Redis, RabbitMQ.
 >
-> *Goal: Learn scalable enterprise architecture.*
+> *Goal: Learn scalable enterprise microservices architecture.*
 
 ⬇️
 
-**⏳ STEP 9: DEVOPS & CLOUD**
-> **Projects 81–90**
+**⏳ STEP 9: DEVOPS + CLOUD**
+> **Projects 83–92**
 >
-> Docker, Kubernetes, CI/CD, AWS EC2, S3 & RDS.
+> Docker, Kubernetes, GitHub Actions, AWS, CI/CD, Nginx.
 >
-> *Goal: Deploy applications using modern DevOps practices.*
+> *Goal: Deploy and manage production-ready cloud applications.*
 
 ⬇️
 
-**🏆 STEP 10: INDUSTRY READY**
-> **Projects 91–100**
+**🏆 STEP 10: SYSTEM DESIGN LEVEL**
+> **Projects 93–102**
 >
-> System Design, Security, Testing, JUnit, Elasticsearch, Performance Optimization.
+> Design Patterns, Security, Testing, Redis, Elasticsearch, System Design.
 >
 > *Goal: Become an Industry-Ready Java Full Stack Developer.*
 
 ---
 
 # 🛠️ Tech Stack Growing With Me
+
 ---
+
 ### 💻 Programming Languages
+
 `Java 21` `SQL`
+
 ---
+
 ### ⚙️ Backend
-`Core Java` `JDBC` `DAO Pattern` `Layered Architecture`
+
+`Core Java`
+`JDBC`
+`DAO Pattern`
+`Servlet`
+`JSP`
+`Session Management`
+`Cookies`
+`Java File I/O`
+
 ---
+
 ### 🗄️ Database
+
 `Oracle Database 11g XE`
+
 ---
+
+### 🌐 Web Technologies
+
+`HTML5`
+`CSS3`
+`Apache Tomcat 10.1`
+
+---
+
 ### 🧰 Tools
-`Git` `GitHub` `Maven` `Eclipse IDE`
+
+`Git`
+`GitHub`
+`Maven`
+`Eclipse IDE`
+
 ---
+
 ### 📚 Currently Learning
-`Servlets` `JSP` `Apache Tomcat`
+
+`Spring Core`
+`Spring MVC`
+`Spring IoC`
+`Dependency Injection`
+`Thymeleaf`
+
 ---
+
 ### 🎯 Next Technologies
-`Spring Core` `Spring Boot` `Hibernate` `React` `Docker` `AWS`
+
+`Spring Boot`
+`Hibernate`
+`REST APIs`
+`React`
+`Docker`
+`AWS`
 
 ---
 
 # 📊 Current Progress
 
-✅ **Projects Completed:** **22 / 100**
+✅ **Projects Completed:** **32 / 102**
 
 🏆 **Tier 1 – Foundations:** **Completed (12/12)**
 
 🏆 **Tier 2 – JDBC + Oracle:** **Completed (10/10)**
 
-🚀 **Currently Working On:** **Tier 3 – Java Web Development (Servlets, JSP & Tomcat)**
+🏆 **Tier 3 – Java Web Development:** **Completed (10/10)**
+
+🚀 **Currently Working On:** **Tier 4 – Spring Core**
+
+🎯 **Next Project:** **Project 33 – Spring MVC Hello**
 
 ---
 
@@ -200,11 +269,33 @@
 
 ---
 
+## 🏆 2026 Goals
+
+- ✅ Complete Tier 1 – Foundations
+- ✅ Complete Tier 2 – JDBC + Oracle
+- ✅ Complete Tier 3 – Java Web Development
+- 🚀 Complete Tier 4 – Spring Core
+- 🚀 Build 100 Java Full Stack Projects
+- 🌱 Become an Industry-Ready Java Full Stack Developer
+
+---
+
+## 📈 GitHub Goals
+
+- 📦 Build production-quality Java projects
+- 📚 Write professional README files for every repository
+- 💡 Learn one new Java technology every week
+- ⭐ Maintain clean commit history and project documentation
+- 🚀 Continuously improve coding, architecture, and problem-solving skills
+
+---
+
 ⭐ **If you enjoy my projects, consider starring the repositories and following my journey!**
 
 ### 🚀 From Core Java to Full Stack Development — One Project at a Time.
 
 </div>
+
 
 
 
