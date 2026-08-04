@@ -316,7 +316,7 @@
 🌱 Become an Industry-Ready Java Full Stack Developer
 
 ---
-
+---
 ## 📈 GitHub Goals
 
 📦 Build production-quality Java projects
@@ -328,6 +328,7 @@
 ⭐ Maintain clean commit history and project documentation
 
 🚀 Continuously improve coding, architecture, and problem-solving skills
+---
 
 ⭐ **If you enjoy my projects, consider starring the repositories and following my journey!**
 
