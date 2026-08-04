@@ -316,7 +316,6 @@
 🌱 Become an Industry-Ready Java Full Stack Developer
 
 ---
----
 ## 📈 GitHub Goals
 
 📦 Build production-quality Java projects
