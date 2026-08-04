@@ -5,14 +5,14 @@
 ### Java Full Stack Developer | Building 100 Java Full Stack Projects
 
 [![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/raviteja-dev950)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/raviteja-dev950)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/raviteja-dev950)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/raviteja-dev950)
 
 **Andhra Pradesh, India | Open to Opportunities**
 
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com)
 
-> 🚀 Building **100 Java Full Stack Projects** — From Core Java to Industry-Ready Full Stack Development
+> 🚀 Building **102 Java Full Stack Projects** — From Core Java to Industry-Ready Full Stack Development
 
 ---
 
@@ -83,7 +83,28 @@
 
 ---
 
-# 🗺️ MY 100 PROJECTS ROADMAP
+## 🏆 TIER 4: SPRING FRAMEWORK — COMPLETED ✅
+
+### 10 / 10 Projects Completed
+
+**Java 21 | Spring Boot 4.1.0 | Spring MVC | Thymeleaf | Bootstrap 5 | Embedded Apache Tomcat 11**
+
+| # | Project | Skills Learned | Code |
+|:-:|---------|----------------|------|
+| 33 | Spring MVC Hello | Spring MVC, Controller, Model | [**View →**](https://github.com/raviteja-dev950/33-spring-mvc-hello) |
+| 34 | User Registration | Validation, ModelAttribute | [**View →**](https://github.com/raviteja-dev950/34-user-registration) |
+| 35 | Product Catalog | Service Layer, Thymeleaf | [**View →**](https://github.com/raviteja-dev950/35-product-catalog) |
+| 36 | Contact Form | Form Handling, ModelAttribute | [**View →**](https://github.com/raviteja-dev950/36-contact-form) |
+| 37 | Blog with Thymeleaf | CRUD, RequestParam, PathVariable | [**View →**](https://github.com/raviteja-dev950/37-blog-thymeleaf) |
+| 38 | Weather App | HashMap, RequestParam | [**View →**](https://github.com/raviteja-dev950/38-weather-app) |
+| 39 | News Portal | Filtering, Stream API | [**View →**](https://github.com/raviteja-dev950/39-news-portal) |
+| 40 | E-Cart | Shopping Cart, Session Logic | [**View →**](https://github.com/raviteja-dev950/40-e-cart) |
+| 41 | Admin Dashboard | Dashboard UI, Charts | [**View →**](https://github.com/raviteja-dev950/41-admin-dashboard) |
+| 42 | CMS Mini | CRUD, CMS, Service Layer | [**View →**](https://github.com/raviteja-dev950/42-cms-mini) |
+
+---
+
+# 🗺️ MY 102 PROJECTS ROADMAP
 
 #### 🚀 My Journey to Becoming a Java Full Stack Developer
 
@@ -114,21 +135,21 @@
 
 ⬇️
 
-**🚀 STEP 4: SPRING CORE — CURRENT**
-> **Projects 33–42**
+**✅ STEP 4: SPRING FRAMEWORK — COMPLETED**
+> **10 / 10 Projects Completed (Projects 33–42)**
 >
-> Spring IoC, Dependency Injection, Spring MVC, Thymeleaf, Bootstrap.
+> Spring Boot, Spring MVC, Spring IoC, Dependency Injection, Thymeleaf, Bootstrap.
 >
-> *Goal: Build enterprise applications using the Spring Framework.*
+> *Built 10 enterprise web applications using Spring MVC architecture, Thymeleaf templates, Bootstrap UI, and layered design.*
 
 ⬇️
 
-**⏳ STEP 5: SPRING BOOT + REST APIs**
+**🚀 STEP 5: SPRING BOOT + REST APIs — CURRENT**
 > **Projects 43–52**
 >
-> Spring Boot, REST APIs, Hibernate, JPA, Validation, Swagger.
+> Spring Boot, REST APIs, Hibernate, Spring Data JPA, Validation, Swagger.
 >
-> *Goal: Develop production-ready backend services.*
+> *Goal: Develop production-ready RESTful backend services.*
 
 ⬇️
 
@@ -183,7 +204,8 @@
 
 ### 💻 Programming Languages
 
-`Java 21` `SQL`
+`Java 21`
+`SQL`
 
 ---
 
@@ -194,9 +216,13 @@
 `DAO Pattern`
 `Servlet`
 `JSP`
-`Session Management`
-`Cookies`
-`Java File I/O`
+`Spring Boot`
+`Spring MVC`
+`Spring IoC`
+`Dependency Injection`
+`Spring Data JPA`
+`Hibernate`
+`REST APIs`
 
 ---
 
@@ -210,7 +236,10 @@
 
 `HTML5`
 `CSS3`
+`Bootstrap 5`
+`Thymeleaf`
 `Apache Tomcat 10.1`
+`Embedded Apache Tomcat 11`
 
 ---
 
@@ -220,33 +249,32 @@
 `GitHub`
 `Maven`
 `Eclipse IDE`
+`Spring Tool Suite (STS)`
 
 ---
 
 ### 📚 Currently Learning
 
-`Spring Core`
-`Spring MVC`
-`Spring IoC`
-`Dependency Injection`
-`Thymeleaf`
+`Spring Boot`
+`Spring Data JPA`
+`Hibernate`
+`REST APIs`
+`Swagger / OpenAPI`
 
 ---
 
 ### 🎯 Next Technologies
 
-`Spring Boot`
-`Hibernate`
-`REST APIs`
+`Spring Security`
 `React`
 `Docker`
 `AWS`
+`Microservices`
 
 ---
-
 # 📊 Current Progress
 
-✅ **Projects Completed:** **32 / 102**
+✅ **Projects Completed:** **42 / 102**
 
 🏆 **Tier 1 – Foundations:** **Completed (12/12)**
 
@@ -254,9 +282,11 @@
 
 🏆 **Tier 3 – Java Web Development:** **Completed (10/10)**
 
-🚀 **Currently Working On:** **Tier 4 – Spring Core**
+🏆 **Tier 4 – Spring Framework:** **Completed (10/10)**
 
-🎯 **Next Project:** **Project 33 – Spring MVC Hello**
+🚀 **Currently Working On:** **Tier 5 – Spring Boot + REST APIs**
+
+🎯 **Next Project:** **Project 43 – REST API CRUD**
 
 ---
 
@@ -271,22 +301,23 @@
 
 ## 🏆 2026 Goals
 
-  ✅ Complete Tier 1 – Foundations
-  ✅ Complete Tier 2 – JDBC + Oracle
-  ✅ Complete Tier 3 – Java Web Development
-  🚀 Complete Tier 4 – Spring Core
-  🚀 Build 100 Java Full Stack Projects
-  🌱 Become an Industry-Ready Java Full Stack Developer
+- ✅ Complete Tier 1 – Foundations
+- ✅ Complete Tier 2 – JDBC + Oracle
+- ✅ Complete Tier 3 – Java Web Development
+- ✅ Complete Tier 4 – Spring Framework
+- 🚀 Complete Tier 5 – Spring Boot + REST APIs
+- 🚀 Build 102 Java Full Stack Projects
+- 🌱 Become an Industry-Ready Java Full Stack Developer
 
 ---
 
 ## 📈 GitHub Goals
 
-  📦 Build production-quality Java projects
-  📚 Write professional README files for every repository
-  💡 Learn one new Java technology every week
-  ⭐ Maintain clean commit history and project documentation
-  🚀 Continuously improve coding, architecture, and problem-solving skills
+- 📦 Build production-quality Java projects
+- 📚 Write professional README files for every repository
+- 💡 Learn one new Java technology every week
+- ⭐ Maintain clean commit history and project documentation
+- 🚀 Continuously improve coding, architecture, and problem-solving skills
 
 ---
 
@@ -295,7 +326,3 @@
 ### 🚀 From Core Java to Full Stack Development — One Project at a Time.
 
 </div>
-
-
-
-
