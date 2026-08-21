@@ -380,7 +380,7 @@ Learning:
 Completed : 62 Projects
 Remaining : 40 Projects
 Goal      : 102 Projects
-
+```
 ## 🏆 2026 Goals
 
 ✅ Complete Tier 1 – Foundations
