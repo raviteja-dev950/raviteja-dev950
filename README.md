@@ -479,11 +479,14 @@ Goal      : 102 Projects
 ⏳ Tier 9  DevOps & Cloud           0 / 10
 ⏳ Tier 10 System Design            0 / 10
 
+-----------------------------------------------------------------
 
 Projects Completed : 62 / 102
 Progress           : 60%
 Current Focus      : Full Stack Integration
+```
 
+-------------------------------------------------------------------
 # ⭐ Thank You for Visiting!
 
 If you enjoy my projects or find them helpful:
