@@ -383,17 +383,17 @@ Goal      : 102 Projects
 ```
 ## 🏆 2026 Goals
 
-✅ Complete Tier 1 – Foundations
-✅ Complete Tier 2 – JDBC + Oracle
-✅ Complete Tier 3 – Java Web Development
-✅ Complete Tier 4 – Spring Framework
-✅ Complete Tier 5 – Spring Boot + REST APIs
-✅ Complete Tier 6 – Frontend Mastery
-🚀 Complete Tier 7 – Full Stack Integration
-🚀 Build 102 Java Full Stack Projects
-🌱 Become an Industry-Ready Java Full Stack Developer
+- ✅ Complete Tier 1 – Foundations
+- ✅ Complete Tier 2 – JDBC + Oracle
+- ✅ Complete Tier 3 – Java Web Development
+- ✅ Complete Tier 4 – Spring Framework
+- ✅ Complete Tier 5 – Spring Boot + REST APIs
+- ✅ Complete Tier 6 – Frontend Mastery
+- 🚀 Complete Tier 7 – Full Stack Integration
+- 🚀 Build 102 Java Full Stack Projects
+- 🌱 Become an Industry-Ready Java Full Stack Developer
 
----
+
 # 📫 Let's Connect
 
 **I'm actively building my Java Full Stack portfolio and always open to learning, collaboration, and new opportunities.**
