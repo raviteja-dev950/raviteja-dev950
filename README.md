@@ -150,13 +150,13 @@
 |:-:|---------|----------------|------|
 |63|Full Stack Todo App|Spring Boot + React + JWT Full Stack|[**View →**](https://github.com/raviteja-dev950/63-full-stack-todo)|
 |64|Blog Platform|Full Stack Blog + Auth + CRUD|[**View →**](https://github.com/raviteja-dev950/64-blog-platform)|
-|65|E-Commerce Full Stack|E-Commerce Full Stack + Cart + Payment|[**View →**](https://github.com/raviteja-dev950/65-ecommerce-fullstack)|
+|65|E-Commerce Full Stack|E-Commerce Full Stack + Cart + Payment|[**View →**](https://github.com/raviteja-dev950/65-ecommerce-full)|
 |66|Social Media Mini|Social Feed + Like + Comment Full Stack|[**View →**](https://github.com/raviteja-dev950/66-social-media-mini)|
 |67|Job Portal|Job Portal + Recruiter + Applicant Full Stack|[**View →**](https://github.com/raviteja-dev950/67-job-portal)|
 |68|Booking System|Booking + Calendar + Full Stack|[**View →**](https://github.com/raviteja-dev950/68-booking-system)|
 |69|LMS Mini|Courses + Enrollment + Full Stack|[**View →**](https://github.com/raviteja-dev950/69-lms-mini)|
 |70|CRM System|CRM + Lead Management + Full Stack|[**View →**](https://github.com/raviteja-dev950/70-crm-system)|
-|71|Real Estate App|Zero Brokerage + OWNER Click Feature + 16 Screenshots|[**View →**](https://github.com/raviteja-dev950/71-real-estate-backend)|
+|71|Real Estate App|Zero Brokerage + OWNER Click Feature + 16 Screenshots|[**View →**](https://github.com/raviteja-dev950/71-real-estate)|
 |72|Food Delivery App|Zero Delivery Fee + Challapalli Pulasa ₹379 + 24 Screenshots|[**View →**](https://github.com/raviteja-dev950/72-food-delivery-app)|
 
 ---
