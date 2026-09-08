@@ -48,7 +48,7 @@
 |15|Inventory Tracker|Product CRUD, SQL|[**View →**](https://github.com/raviteja-dev950/15-inventory-tracker)|
 |16|School DB System|Student & Course Management|[**View →**](https://github.com/raviteja-dev950/16-school-db-system)|
 |17|Expense Tracker CLI|Expense Reports, JDBC|[**View →**](https://github.com/raviteja-dev950/17-expense-tracker-cli)|
-|18|Hospital Records|Patient & Doctor Management|[**View →**](https://github.com/raviteja-dev950/18-hospital-records)|
+|18|Hospital Records|Patient & Doctor Management|[**View →**](https://github.com/raviteja-dev950/18-hospital-records-cli)|
 |19|Restaurant Order DB|SQL JOIN, Order Management|[**View →**](https://github.com/raviteja-dev950/19-restaurant-order-db)|
 |20|Voting System|Candidate, Voting & Results|[**View →**](https://github.com/raviteja-dev950/20-voting-system)|
 |21|Flight Booking CLI|Booking Management, SQL JOIN|[**View →**](https://github.com/raviteja-dev950/21-flight-booking-system)|
