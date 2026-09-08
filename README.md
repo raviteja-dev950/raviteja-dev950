@@ -50,7 +50,7 @@
 |17|Expense Tracker CLI|Expense Reports, JDBC|[**View →**](https://github.com/raviteja-dev950/17-expense-tracker-cli)|
 |18|Hospital Records|Patient & Doctor Management|[**View →**](https://github.com/raviteja-dev950/18-hospital-records-cli)|
 |19|Restaurant Order DB|SQL JOIN, Order Management|[**View →**](https://github.com/raviteja-dev950/19-restaurant-order-cli)|
-|20|Voting System|Candidate, Voting & Results|[**View →**](https://github.com/raviteja-dev950/20-voting-system)|
+|20|Voting System|Candidate, Voting & Results|[**View →**](https://github.com/raviteja-dev950/20-voting-system-cli)|
 |21|Flight Booking CLI|Booking Management, SQL JOIN|[**View →**](https://github.com/raviteja-dev950/21-flight-booking-system)|
 |22|Sales Report Tool|Sales Reports, SQL JOIN|[**View →**](https://github.com/raviteja-dev950/22-sales-report-system)|
 
