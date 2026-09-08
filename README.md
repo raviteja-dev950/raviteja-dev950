@@ -131,7 +131,7 @@
 |54|React Auth UI|JWT, Protected Routes, Context API|[**View →**](https://github.com/raviteja-dev950/54-react-auth-ui)|
 |55|Dashboard UI|Tailwind CSS, Charts, Responsive Layout|[**View →**](https://github.com/raviteja-dev950/55-dashboard-ui)|
 |56|Blog Frontend|React Router, Markdown, CRUD UI|[**View →**](https://github.com/raviteja-dev950/56-blog-frontend)|
-|57|E-Commerce UI|Product Listing, Cart, Filters, Axios|[**View →**](https://github.com/raviteja-dev950/57-ecommerce-ui)|
+|57|E-Commerce UI|Product Listing, Cart, Filters, Axios|[**View →**](http://github.com/raviteja-dev950/57-ecommerce-frontend)|
 |58|Admin Panel|Admin CRUD, Role Based UI, Tables|[**View →**](https://github.com/raviteja-dev950/58-admin-panel)|
 |59|Chat UI|Real-time UI, Messages, WebSocket Integration|[**View →**](https://github.com/raviteja-dev950/59-chat-ui)|
 |60|Kanban Board|Drag & Drop, State Management, Hooks|[**View →**](https://github.com/raviteja-dev950/60-kanban-board)|
