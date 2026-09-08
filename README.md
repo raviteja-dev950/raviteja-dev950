@@ -109,7 +109,7 @@
 |43|REST Todo API|REST CRUD, Layered Architecture|[**View →**](https://github.com/raviteja-dev950/43-rest-todo-api)|
 |44|User Management API|CRUD Operations, Validation|[**View →**](https://github.com/raviteja-dev950/44-user-management-api)|
 |45|Blog REST API|REST Endpoints, JSON Processing|[**View →**](https://github.com/raviteja-dev950/45-blog-rest-api)|
-|46|E-Commerce API|Product Management, REST Design|[**View →**](https://github.com/raviteja-dev950/46-ecommerce-api)|
+|46|E-Commerce API|Product Management, REST Design|[**View →**](https://github.com/raviteja-dev950/46-ecommerce-rest-api)|
 |47|JWT Authentication API|JWT Security, Authentication, Authorization|[**View →**](https://github.com/raviteja-dev950/47-jwt-auth-api)|
 |48|File Upload API|Multipart File Upload & Download|[**View →**](https://github.com/raviteja-dev950/48-file-upload-api)|
 |49|Payment API Mock|Payment Processing, REST Services|[**View →**](https://github.com/raviteja-dev950/49-payment-api-mock)|
