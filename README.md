@@ -43,7 +43,7 @@
 
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
-|13|Library Management CLI|JDBC, CRUD, DAO Pattern|[**View →**](https://github.com/raviteja-dev950/13-library-management-cli)|
+|13|Library Management CLI|JDBC, CRUD, DAO Pattern|[**View →**](https://github.com/raviteja-dev950/13-library-management)|
 |14|Employee DB CRUD|Oracle JDBC, Employee CRUD|[**View →**](https://github.com/raviteja-dev950/14-employee-db-crud)|
 |15|Inventory Tracker|Product CRUD, SQL|[**View →**](https://github.com/raviteja-dev950/15-inventory-tracker)|
 |16|School DB System|Student & Course Management|[**View →**](https://github.com/raviteja-dev950/16-school-db-system)|
