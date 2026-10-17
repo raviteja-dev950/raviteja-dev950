@@ -13,11 +13,8 @@
 # 🔥 CURRENT STATUS
 
 ## 🏆 TIER 1: FOUNDATIONS — COMPLETED ✅
-
 ### 12 / 12 Projects Completed
-
 **Core Java | OOP | Collections | Exception Handling | File Handling | Git**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |01|CLI Calculator|OOP, Interface, Exception|[**View →**](https://github.com/raviteja-dev950/01-cli-calculator)|
@@ -36,11 +33,8 @@
 ---
 
 ## 🏆 TIER 2: JDBC + ORACLE — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Oracle Database 11g XE | JDBC | Maven | DAO Pattern | CRUD | SQL JOIN**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |13|Library Management CLI|JDBC, CRUD, DAO Pattern|[**View →**](https://github.com/raviteja-dev950/13-library-management)|
@@ -57,11 +51,8 @@
 ---
 
 ## 🏆 TIER 3: JAVA WEB DEVELOPMENT — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Java 21 | Jakarta Servlet 6.0 | JSP | Apache Tomcat 10.1 | Sessions | Cookies | Java File I/O**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |23|Login Page|Servlets, JSP, Authentication|[**View →**](https://github.com/raviteja-dev950/23-login-page)|
@@ -78,11 +69,8 @@
 ---
 
 ## 🏆 TIER 4: SPRING FRAMEWORK — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Java 21 | Spring Boot 4.1.0 | Spring MVC | Thymeleaf | Bootstrap 5 | Embedded Apache Tomcat 11**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |33|Spring MVC Hello|Spring MVC, Controller, Model|[**View →**](https://github.com/raviteja-dev950/33-spring-mvc-hello)|
@@ -99,11 +87,8 @@
 ---
 
 ## 🏆 TIER 5: SPRING BOOT + REST APIs — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Java 21 | Spring Boot 4.1.0 | Spring Web | REST APIs | Validation | JSON | Embedded Apache Tomcat 11**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |43|REST Todo API|REST CRUD, Layered Architecture|[**View →**](https://github.com/raviteja-dev950/43-rest-todo-api)|
@@ -120,11 +105,8 @@
 ---
 
 ## 🏆 TIER 6: FRONTEND MASTERY — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Java 21 | Spring Boot 4.1.0 | React 18 | React Hooks | Axios | Tailwind CSS | JavaScript ES6+**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |53|React Todo + API|React, Hooks, Axios, Spring Boot Integration|[**View →**](https://github.com/raviteja-dev950/53-react-todo-api)|
@@ -141,11 +123,8 @@
 ---
 
 ## 🏆 TIER 7: FULL STACK INTEGRATION — COMPLETED ✅
-
 ### 10 / 10 Projects Completed
-
 **Java 17 | Spring Boot 3.2.5 | Spring Security Bypass | H2 Database | Single HTML Vanilla JS | Bypass Full Stack | Docker**
-
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
 |63|Full Stack Todo App|Spring Boot + React + JWT Full Stack|[**View →**](https://github.com/raviteja-dev950/63-full-stack-todo)|
@@ -161,205 +140,98 @@
 
 ---
 
+## 🏆 TIER 8: ADVANCED BACKEND — COMPLETED ✅
+### 10 / 10 Projects Completed
+**Spring Cloud | Eureka | API Gateway | Kafka | Redis | RabbitMQ**
+| # | Project | Skills Learned | Code |
+|:-:|---------|----------------|------|
+|73|Auth Service|JWT, Spring Cloud, Microservice|[**View →**](https://github.com/raviteja-dev950/73-auth-service)|
+|74|Product Service|CRUD, Service Discovery|[**View →**](https://github.com/raviteja-dev950/74-product-service)|
+|75|Order Service|Order Management, Feign Client|[**View →**](https://github.com/raviteja-dev950/75-order-service)|
+|76|API Gateway|Spring Cloud Gateway, Routing|[**View →**](https://github.com/raviteja-dev950/76-api-gateway)|
+|77|Service Discovery|Eureka Server, Client Registration|[**View →**](https://github.com/raviteja-dev950/77-service-discovery)|
+|78|Event-Driven Order|Kafka, Event-Driven Architecture|[**View →**](https://github.com/raviteja-dev950/78-event-driven-order)|
+|79|Notification Service|Kafka + Email, Event Handling|[**View →**](https://github.com/raviteja-dev950/79-notification-service)|
+|80|Payment Service|Payment Microservice, Saga Pattern|[**View →**](https://github.com/raviteja-dev950/80-payment-service)|
+|81|Logging Service|Centralized Logging|[**View →**](https://github.com/raviteja-dev950/81-logging-service)|
+|82|Config Server|Spring Cloud Config|[**View →**](https://github.com/raviteja-dev950/82-config-server)|
+
+---
+
 # 🗺 MY 102 PROJECTS ROADMAP
 
 #### 🚀 My Journey to Becoming a Java Full Stack Developer
 
 **✅ STEP 1: FOUNDATIONS — COMPLETED**
-
 > **12 / 12 Projects Completed**
->
 > Core Java, OOP, Collections, Exception Handling, File Handling, Git & GitHub.
->
-> *Built a strong programming foundation through console-based Java applications.*
-
-⬇
 
 **✅ STEP 2: JDBC + ORACLE — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 13–22)**
->
-> JDBC, Oracle Database 11g XE, Maven, DAO Pattern, CRUD Operations, SQL JOIN, Layered Architecture.
->
-> *Built 10 real-world database-driven applications using Oracle and JDBC.*
-
-⬇
+> JDBC, Oracle Database 11g XE, Maven, DAO Pattern, CRUD Operations, SQL JOIN
 
 **✅ STEP 3: JAVA WEB DEVELOPMENT — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 23–32)**
->
-> Servlets, JSP, Apache Tomcat, Sessions, Cookies, Java File I/O.
->
-> *Built 10 dynamic Java Web applications using JSP, Servlets, Sessions, Cookies, and File Handling.*
-
-⬇
+> Servlets, JSP, Apache Tomcat, Sessions, Cookies
 
 **✅ STEP 4: SPRING FRAMEWORK — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 33–42)**
->
-> Spring Boot, Spring MVC, Spring IoC, Dependency Injection, Thymeleaf, Bootstrap.
->
-> *Built 10 enterprise web applications using Spring MVC architecture, Thymeleaf templates, Bootstrap UI, and layered design.*
-
-⬇
+> Spring Boot, Spring MVC, Spring IoC, Dependency Injection, Thymeleaf, Bootstrap
 
 **✅ STEP 5: SPRING BOOT + REST APIs — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 43–52)**
->
-> Spring Boot, REST APIs, Validation, JSON, File Upload, JWT Authentication, Email Services, URL Shortener, Chat Backend.
->
-> *Built 10 production-ready REST APIs using layered architecture, proper HTTP status codes, validation, in-memory storage, and industry-standard project structure.*
-
-⬇
+> Spring Boot, REST APIs, Validation, JSON, JWT Authentication
 
 **✅ STEP 6: FRONTEND MASTERY — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 53–62)**
->
-> React, Hooks, Axios, Tailwind CSS, JavaScript ES6+, REST API Integration.
->
-> *Built 10 modern responsive frontend applications with React and integrated them with Spring Boot backends.*
-
-⬇
+> React, Hooks, Axios, Tailwind CSS, JavaScript ES6+
 
 **✅ STEP 7: FULL STACK INTEGRATION — COMPLETED**
-
 > **10 / 10 Projects Completed (Projects 63–72)**
->
-> Spring Boot 3.2.5, Spring Security Bypass, H2 Database, Single HTML Vanilla JS, Zero Brokerage & Zero Delivery Fee Business Model, OWNER Click Feature, 24 Screenshots.
->
-> *Built 10 complete full-stack applications with bypass architecture — Same port frontend + backend, Role-based UI, Real-world business logic like NoBroker & Swiggy, Dockerized.*
+> Spring Boot + React Full Stack, Docker
 
-⬇
+**✅ STEP 8: ADVANCED BACKEND — COMPLETED**
+> **10 / 10 Projects Completed (Projects 73–82)**
+> Spring Cloud, Eureka, API Gateway, Kafka, Redis, RabbitMQ, Microservices
 
-**🚀 STEP 8: ADVANCED BACKEND — CURRENT**
-
-> **Projects 73–82**
->
-> Spring Cloud, Eureka, API Gateway, Kafka, Redis, RabbitMQ.
->
-> *Goal: Learn scalable enterprise microservices architecture.*
-
-⬇
-
-**⏳ STEP 9: DEVOPS + CLOUD**
-
+**🚀 STEP 9: DEVOPS + CLOUD — CURRENT**
 > **Projects 83–92**
->
-> Docker, Kubernetes, GitHub Actions, AWS, CI/CD, Nginx.
->
-> *Goal: Deploy and manage production-ready cloud applications.*
+> Docker, Kubernetes, GitHub Actions, AWS, CI/CD, Nginx
 
-⬇
-
-**🏆 STEP 10: SYSTEM DESIGN LEVEL**
-
+**⏳ STEP 10: SYSTEM DESIGN LEVEL**
 > **Projects 93–102**
->
-> Design Patterns, Security, Testing, Redis, Elasticsearch, System Design.
->
-> *Goal: Become an Industry-Ready Java Full Stack Developer.*
+> Design Patterns, Security, Testing, Redis, Elasticsearch, System Design
 
 ---
+
 # 🛠 Tech Stack Growing With Me
 
----
-
 ### 💻 Programming Languages
-
-`Java 21`
-`SQL`
-`JavaScript (ES6+)`
-
----
+`Java 21` `SQL` `JavaScript (ES6+)`
 
 ### ⚙ Backend
-
-`Core Java`
-`JDBC`
-`DAO Pattern`
-`Servlet`
-`JSP`
-`Spring Boot`
-`Spring MVC`
-`Spring IoC`
-`Dependency Injection`
-`Spring Data JPA`
-`Hibernate`
-`REST APIs`
-`JWT Authentication`
-`Jakarta Validation`
-
----
+`Core Java` `JDBC` `DAO Pattern` `Servlet` `JSP` `Spring Boot` `Spring MVC` `Spring IoC` `Dependency Injection` `Spring Data JPA` `Hibernate` `REST APIs` `JWT Authentication` `Jakarta Validation` `Spring Cloud` `Eureka` `API Gateway` `Kafka`
 
 ### 🗄 Database
-
-`Oracle Database 11g XE`
-`H2 Database`
-
----
+`Oracle Database 11g XE` `H2 Database` `Redis`
 
 ### 🌐 Frontend Technologies
+`HTML5` `CSS3` `Bootstrap 5` `Thymeleaf` `React` `React Hooks` `Tailwind CSS` `Axios` `Vanilla JS Single File`
 
-`HTML5`
-`CSS3`
-`Bootstrap 5`
-`Thymeleaf`
-`React`
-`React Hooks`
-`Tailwind CSS`
-`Axios`
-`Vanilla JS Single File`
-
----
-
-### ⚛ Currently Learning (Tier 8)
-
-`Spring Cloud`
-`Eureka`
-`API Gateway`
-`Microservices`
-`Kafka`
-`Redis`
-
----
-
-### ☁ Upcoming Technologies
-
-`AWS`
-`Kubernetes`
-`Docker`
-`CI/CD`
-
----
+### ☁ Currently Learning (Tier 9)
+`Docker` `Kubernetes` `GitHub Actions` `AWS`
 
 ### 🧰 Tools
-
-`Git`
-`GitHub`
-`Maven`
-`Postman`
-`STS`
-`Eclipse IDE`
-`VS Code`
-`npm`
-`Docker`
+`Git` `GitHub` `Maven` `Postman` `STS` `Eclipse IDE` `VS Code` `npm` `Docker`
 
 ---
 
 # 📊 Current Progress
 
 ## 🏆 Completed Projects
+**✅ 82 / 102 Projects Completed**
 
-**✅ 72 / 102 Projects Completed**
-
----
-
-## 🏆 Tier Progress
-
+### Tier Progress
 | Tier | Status | Progress |
 |------|--------|:--------:|
 | 🟢 Tier 1 – Foundations | ✅ Completed | 12 / 12 |
@@ -369,43 +241,37 @@
 | 🟢 Tier 5 – Spring Boot + REST APIs | ✅ Completed | 10 / 10 |
 | 🟢 Tier 6 – Frontend Mastery | ✅ Completed | 10 / 10 |
 | 🟢 Tier 7 – Full Stack Integration | ✅ Completed | 10 / 10 |
-| 🟡 Tier 8 – Advanced Backend | 🚀 In Progress | 0 / 10 |
-| ⚪ Tier 9 – DevOps & Cloud | ⏳ Pending | 0 / 10 |
+| 🟢 Tier 8 – Advanced Backend | ✅ Completed | 10 / 10 |
+| 🟡 Tier 9 – DevOps & Cloud | 🚀 In Progress | 0 / 10 |
 | ⚪ Tier 10 – System Design Level | ⏳ Pending | 0 / 10 |
 
 ---
 
 ## 🚀 Currently Working On
-
-**Tier 8 – Advanced Backend – Microservices**
-
+**Tier 9 – DevOps + Cloud**
 Learning:
-
-- Spring Cloud + Eureka Service Discovery
-- API Gateway + Config Server
-- Kafka + Redis + RabbitMQ
-- Event-Driven Architecture
-- Microservices Architecture Diagram
+- Docker + Kubernetes
+- GitHub Actions CI/CD
+- AWS EC2, S3, RDS
+- Nginx Load Balancing
 
 ---
 
 ## 🎯 Next Project
-
-**Project 73 – Auth Service – Microservices**
+**Project 83 – Dockerize App**
 
 ---
 
 ## 📈 Overall Roadmap Progress
-
 ```text
-████████████████████░░░░░░ 70%
+████████████████████████░░░░░░ 80%
 
-Completed : 72 Projects
-Remaining : 30 Projects
+Completed : 82 Projects
+Remaining : 20 Projects
 Goal      : 102 Projects
 ```
-## 🏆 2026 Goals
 
+## 🏆 2026 Goals
 - ✅ Complete Tier 1 – Foundations
 - ✅ Complete Tier 2 – JDBC + Oracle
 - ✅ Complete Tier 3 – Java Web Development
@@ -413,123 +279,19 @@ Goal      : 102 Projects
 - ✅ Complete Tier 5 – Spring Boot + REST APIs
 - ✅ Complete Tier 6 – Frontend Mastery
 - ✅ Complete Tier 7 – Full Stack Integration
-- 🚀 Complete Tier 8 – Advanced Backend
+- ✅ Complete Tier 8 – Advanced Backend
+- 🚀 Complete Tier 9 – DevOps + Cloud
 - 🚀 Build 102 Java Full Stack Projects
 - 🌱 Become an Industry-Ready Java Full Stack Developer
 
+---
 
 # 📫 Let's Connect
-
 **I'm actively building my Java Full Stack portfolio and always open to learning, collaboration, and new opportunities.**
-
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vemulaleelavenkataraviteja/
 - 📧 **Email:** vemularaviteja06@gmail.com
 - 💻 **GitHub:** https://github.com/raviteja-dev950
 
 ---
 
-# 📈 GitHub Goals
-
-- 📦 Build production-quality Java Full Stack projects
-- 📚 Write professional README files for every repository
-- 💡 Learn one new technology every week
-- 🏗 Improve software architecture and clean coding practices
-- 🌐 Build responsive frontend applications with React
-- 🔐 Learn Spring Security and JWT Authentication
-- 🐳 Containerize applications using Docker
-- ☁ Deploy applications to AWS and Cloud platforms
-- 🚀 Build scalable Microservices using Spring Cloud
-- ⭐ Maintain clean commit history and project documentation
-
----
-
-# 💻 Current Tech Stack
-
-### Backend
-
-`Java 21`
-`Spring Boot`
-`Spring MVC`
-`Spring Data JPA`
-`Hibernate`
-`REST APIs`
-`JDBC`
-`Servlet`
-`JSP`
-`Oracle Database`
-`H2 Database`
-`Maven`
-`Microservices - Learning`
-
-### Frontend
-
-`HTML5`
-`CSS3`
-`Bootstrap 5`
-`Thymeleaf`
-`React`
-`React Hooks`
-`Tailwind CSS`
-`Axios`
-`JavaScript ES6+`
-`Single HTML Bypass Full Stack`
-
-### Currently Learning
-
-`Spring Cloud`
-`Eureka / Service Discovery`
-`API Gateway`
-`Microservices`
-`Kafka`
-`Redis`
-
-### Future Technologies
-
-`AWS`
-`Kubernetes`
-`Docker`
-`CI/CD`
-`Elasticsearch`
-
----
-
-# 📊 Journey Overview
-
-```text
-✅ Tier 1  Foundations             12 / 12
-✅ Tier 2  JDBC + Oracle           10 / 10
-✅ Tier 3  Java Web Development    10 / 10
-✅ Tier 4  Spring Framework        10 / 10
-✅ Tier 5  Spring Boot + REST      10 / 10
-✅ Tier 6  Frontend Mastery        10 / 10
-✅ Tier 7  Full Stack Apps         10 / 10
-🚀 Tier 8  Advanced Backend         0 / 10
-⏳ Tier 9  DevOps & Cloud           0 / 10
-⏳ Tier 10 System Design            0 / 10
-
------------------------------------------------------------------
-
-Projects Completed : 72 / 102
-Progress           : 70%
-Current Focus      : Advanced Backend - Microservices
-```
----
-
-
--------------------------------------------------------------------
 # ⭐ Thank You for Visiting!
-
-If you enjoy my projects or find them helpful:
-
-- ⭐ Star the repositories
-- 🍴 Fork the projects
-- 👀 Follow my GitHub journey
-- 💬 Share feedback and suggestions
-
-Every project in this repository is part of my mission to become an **Industry-Ready Java Full Stack Developer** by building **102 real-world projects**.
-
----
-
-# 🚀 From Core Java to Full Stack Development — One Project at a Time.
-
-### ⭐ Thanks for visiting my GitHub Profile!
