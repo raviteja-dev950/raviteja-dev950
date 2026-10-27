@@ -163,12 +163,12 @@
 **Docker | Kubernetes | GitHub Actions | AWS EC2, S3, RDS | CloudWatch | Nginx | Terraform**
 | # | Project | Skills Learned | Code |
 |:-:|---------|----------------|------|
-|83|Dockerize App|Docker, Dockerfile, Docker Compose|[**View →**](https://github.com/raviteja-dev950/83-dockerize-app)|
+|83|Dockerize App|Docker, Dockerfile, Docker Compose|[**View →**](https://github.com/raviteja-dev950/83-dockerized-app)|
 |84|K8s Deploy|Kubernetes, Pods, Deployments, Services|[**View →**](https://github.com/raviteja-dev950/84-k8s-deploy)|
 |85|GitHub Actions CI|CI/CD, GitHub Actions, Workflows|[**View →**](https://github.com/raviteja-dev950/85-github-actions-ci)|
 |86|AWS EC2 Deploy|AWS EC2, Deployment, Security Groups|[**View →**](https://github.com/raviteja-dev950/86-aws-ec2-deploy)|
 |87|S3 File Service|S3, File Storage, AWS SDK|[**View →**](https://github.com/raviteja-dev950/87-s3-file-service)|
-|88|RDS Integration|RDS, MySQL, AWS Database|[**View →**](https://github.com/raviteja-dev950/88-rds-integration)|
+|88|RDS Integration|RDS, MySQL, AWS Database|[**View →**](http://github.com/raviteja-dev950/88-rds-integration)|
 |89|CloudWatch Logs|CloudWatch, Logging, Monitoring|[**View →**](https://github.com/raviteja-dev950/89-cloudwatch-logs)|
 |90|Load Balanced App|Nginx, Load Balancing, Reverse Proxy|[**View →**](https://github.com/raviteja-dev950/90-load-balanced-app)|
 |91|Terraform Script|Terraform, IaC, AWS Infrastructure|[**View →**](https://github.com/raviteja-dev950/91-terraform-script)|
