@@ -158,6 +158,24 @@
 
 ---
 
+## 🏆 TIER 9: DEVOPS + CLOUD — COMPLETED ✅
+### 10 / 10 Projects Completed
+**Docker | Kubernetes | GitHub Actions | AWS EC2, S3, RDS | CloudWatch | Nginx | Terraform**
+| # | Project | Skills Learned | Code |
+|:-:|---------|----------------|------|
+|83|Dockerize App|Docker, Dockerfile, Docker Compose|[**View →**](https://github.com/raviteja-dev950/83-dockerize-app)|
+|84|K8s Deploy|Kubernetes, Pods, Deployments, Services|[**View →**](https://github.com/raviteja-dev950/84-k8s-deploy)|
+|85|GitHub Actions CI|CI/CD, GitHub Actions, Workflows|[**View →**](https://github.com/raviteja-dev950/85-github-actions-ci)|
+|86|AWS EC2 Deploy|AWS EC2, Deployment, Security Groups|[**View →**](https://github.com/raviteja-dev950/86-aws-ec2-deploy)|
+|87|S3 File Service|S3, File Storage, AWS SDK|[**View →**](https://github.com/raviteja-dev950/87-s3-file-service)|
+|88|RDS Integration|RDS, MySQL, AWS Database|[**View →**](https://github.com/raviteja-dev950/88-rds-integration)|
+|89|CloudWatch Logs|CloudWatch, Logging, Monitoring|[**View →**](https://github.com/raviteja-dev950/89-cloudwatch-logs)|
+|90|Load Balanced App|Nginx, Load Balancing, Reverse Proxy|[**View →**](https://github.com/raviteja-dev950/90-load-balanced-app)|
+|91|Terraform Script|Terraform, IaC, AWS Infrastructure|[**View →**](https://github.com/raviteja-dev950/91-terraform-script)|
+|92|Blue-Green Deploy|Blue-Green Deployment, Zero Downtime|[**View →**](https://github.com/raviteja-dev950/92-blue-green-deploy)|
+
+---
+
 # 🗺 MY 102 PROJECTS ROADMAP
 
 #### 🚀 My Journey to Becoming a Java Full Stack Developer
@@ -194,11 +212,11 @@
 > **10 / 10 Projects Completed (Projects 73–82)**
 > Spring Cloud, Eureka, API Gateway, Kafka, Redis, RabbitMQ, Microservices
 
-**🚀 STEP 9: DEVOPS + CLOUD — CURRENT**
-> **Projects 83–92**
-> Docker, Kubernetes, GitHub Actions, AWS, CI/CD, Nginx
+**✅ STEP 9: DEVOPS + CLOUD — COMPLETED**
+> **10 / 10 Projects Completed (Projects 83–92)**
+> Docker, Kubernetes, GitHub Actions, AWS, CI/CD, Nginx, Terraform, Blue-Green Deployment
 
-**⏳ STEP 10: SYSTEM DESIGN LEVEL**
+**🚀 STEP 10: SYSTEM DESIGN LEVEL — CURRENT**
 > **Projects 93–102**
 > Design Patterns, Security, Testing, Redis, Elasticsearch, System Design
 
@@ -218,8 +236,9 @@
 ### 🌐 Frontend Technologies
 `HTML5` `CSS3` `Bootstrap 5` `Thymeleaf` `React` `React Hooks` `Tailwind CSS` `Axios` `Vanilla JS Single File`
 
-### ☁ Currently Learning (Tier 9)
+### ☁ Currently Learning (Tier 10)
 `Docker` `Kubernetes` `GitHub Actions` `AWS`
+`JUnit` `Mockito` `Redis` `Elasticsearch`
 
 ### 🧰 Tools
 `Git` `GitHub` `Maven` `Postman` `STS` `Eclipse IDE` `VS Code` `npm` `Docker`
@@ -229,7 +248,7 @@
 # 📊 Current Progress
 
 ## 🏆 Completed Projects
-**✅ 82 / 102 Projects Completed**
+**✅ 92 / 102 Projects Completed**
 
 ### Tier Progress
 | Tier | Status | Progress |
@@ -242,32 +261,31 @@
 | 🟢 Tier 6 – Frontend Mastery | ✅ Completed | 10 / 10 |
 | 🟢 Tier 7 – Full Stack Integration | ✅ Completed | 10 / 10 |
 | 🟢 Tier 8 – Advanced Backend | ✅ Completed | 10 / 10 |
-| 🟡 Tier 9 – DevOps & Cloud | 🚀 In Progress | 0 / 10 |
-| ⚪ Tier 10 – System Design Level | ⏳ Pending | 0 / 10 |
+| 🟢 Tier 9 – DevOps & Cloud | ✅ Completed | 10 / 10 |
+| 🟡 Tier 10 – System Design Level | 🚀 In Progress | 0 / 10 |
 
 ---
 
 ## 🚀 Currently Working On
-**Tier 9 – DevOps + Cloud**
+**Tier 10 – System Design Level**
 Learning:
-- Docker + Kubernetes
-- GitHub Actions CI/CD
-- AWS EC2, S3, RDS
-- Nginx Load Balancing
+- Caching, Security, Testing, Design Patterns
+- JUnit, Mockito, Redis, Elasticsearch
+- Rate Limiting, WebSockets, Multi-tenancy
 
 ---
 
 ## 🎯 Next Project
-**Project 83 – Dockerize App**
+**Project 93 – Rate Limited API**
 
 ---
 
 ## 📈 Overall Roadmap Progress
 ```text
-████████████████████████░░░░░░ 80%
+████████████████████████████░░ 90%
 
-Completed : 82 Projects
-Remaining : 20 Projects
+Completed : 92 Projects
+Remaining : 10 Projects
 Goal      : 102 Projects
 ```
 
@@ -280,7 +298,8 @@ Goal      : 102 Projects
 - ✅ Complete Tier 6 – Frontend Mastery
 - ✅ Complete Tier 7 – Full Stack Integration
 - ✅ Complete Tier 8 – Advanced Backend
-- 🚀 Complete Tier 9 – DevOps + Cloud
+- ✅ Complete Tier 9 – DevOps + Cloud
+- 🚀 Complete Tier 10 – System Design Level
 - 🚀 Build 102 Java Full Stack Projects
 - 🌱 Become an Industry-Ready Java Full Stack Developer
 
