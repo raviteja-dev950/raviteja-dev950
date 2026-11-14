@@ -1,6 +1,6 @@
 # Hello, I'm Ravi Teja 👋
 
-### Java Full Stack Developer | Building 102 Java Full Stack Projects
+### Java Full Stack Developer | Completed 102 Java Full Stack Projects
 
 📍 **Andhra Pradesh, India | Open to Opportunities**
 
