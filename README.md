@@ -6,7 +6,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com)
 
-> 🚀 Building **102 Java Full Stack Projects** — From Core Java to Industry-Ready Full Stack Development
+> 🚀 Completed **102 Java Full Stack Projects** — From Core Java to Industry-Ready Full Stack Development
 
 ---
 
