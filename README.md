@@ -185,7 +185,7 @@
 |94|URL Shortener Scale|Scale, Caching, Redis|[**View →**](https://github.com/raviteja-dev950/94-url-shortener-scale)|
 |95|Chat App WebSockets|WebSockets, Real-time, Security|[**View →**](https://github.com/raviteja-dev950/95-chat-app-websockets)|
 |96|Video Streaming API|Streaming, Range Requests, Scale|[**View →**](https://github.com/raviteja-dev950/96-video-streaming-api)|
-|97|Search with Elastic|Elasticsearch, Fuzzy Search, Autocomplete|[**View →**](https://github.com/raviteja-dev950/97-search-elastic)|
+|97|Search with Elastic|Elasticsearch, Fuzzy Search, Autocomplete|[**View →**](https://github.com/raviteja-dev950/97-search-with-elastic)|
 |98|Recommendation Engine|Recommendation, Collaborative, Content|[**View →**](https://github.com/raviteja-dev950/98-recommendation-engine)|
 |99|Multi-tenant SaaS|Multi-tenancy, Shared, Isolated, Hybrid|[**View →**](https://github.com/raviteja-dev950/99-multi-tenant-saas)|
 |100|Audit Log System|Audit Log, User Action, Resource, Hybrid|[**View →**](https://github.com/raviteja-dev950/100-audit-log-system)|
