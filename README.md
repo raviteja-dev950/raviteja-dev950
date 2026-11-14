@@ -289,7 +289,6 @@
 ██████████████████████████████ 100%
 
 Completed : 102 Projects
-Remaining : 0 Projects
 Goal      : 102 Projects
 ```
 
